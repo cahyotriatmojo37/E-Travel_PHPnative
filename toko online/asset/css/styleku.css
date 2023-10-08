@@ -1,0 +1,105 @@
+body{
+    background-color: aliceblue;
+}
+
+#atas{
+    padding-left: 60px;
+}
+
+.navbar a:hover{
+    background-color: rgb(73, 73, 75);
+}
+
+#demo .carousel-inner{
+    color:red;
+    background-color: blue;
+}
+
+#kategori .container{
+    background-color: rgb(255, 255, 255);
+    color: rgb(6, 6, 8);
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+#kategori .row{
+    text-align: center;
+}
+
+#isi .container{
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-left: 25px;
+    text-align: center;
+}
+
+#isi2 .container{
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+#isi2 h2{
+    text-align: center;
+}
+#isi2 button{
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+#isi3 .col-lg-3.col-md-3.col-sm-6.col-xs-6{
+    margin-top: 20px;
+    background-color: white;
+}
+#isi3 .caption{
+    text-align: center;
+}
+#isi3 img{
+    padding-right: 0px;
+    position: relative;
+    margin-left: 53px;
+}
+#isi3 .container button{
+    background-color: rgb(117, 238, 69);
+    color: rgb(2, 2, 2);
+    margin-bottom: 10px;
+    position: relative;
+    display: block;
+    margin-left: 95px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#about{
+    background-color: #0a3142;
+    margin-top: 80px;
+    color: white;
+}
+  
+#about .container{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+  
+#about .container.footer .col-lg-6.col-md-6.col-sm-12.col-xs-12{
+    font-family:petitamedium;
+    color:#eee;
+}
+
+#about button{
+    background-color: rgb(255, 251, 251);
+    color: black;
+}
+  
+.from-grub{
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+  
+#kaki{
+    color: rgb(19, 176, 243);
+    background-color: #0f1517;
+    padding-top: 5px;
+    padding-bottom: 5px;  
+}
